@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/project_uts_MiaAmalia2200319/static/css/main.5f96b9cc.css",
+    "main.js": "/project_uts_MiaAmalia2200319/static/js/main.c9fb17a8.js",
+    "static/js/787.f22b8f29.chunk.js": "/project_uts_MiaAmalia2200319/static/js/787.f22b8f29.chunk.js",
+    "static/media/profil.png": "/project_uts_MiaAmalia2200319/static/media/profil.1c155afd8fe56328cf0a.png",
+    "static/media/about.png": "/project_uts_MiaAmalia2200319/static/media/about.f4e8e85a69a1f170536b.png",
+    "static/media/Mia Amalia - Cv.pdf": "/project_uts_MiaAmalia2200319/static/media/Mia Amalia - Cv.33f663ccf98f64753479.pdf",
+    "index.html": "/project_uts_MiaAmalia2200319/index.html",
+    "main.5f96b9cc.css.map": "/project_uts_MiaAmalia2200319/static/css/main.5f96b9cc.css.map",
+    "main.c9fb17a8.js.map": "/project_uts_MiaAmalia2200319/static/js/main.c9fb17a8.js.map",
+    "787.f22b8f29.chunk.js.map": "/project_uts_MiaAmalia2200319/static/js/787.f22b8f29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f96b9cc.css",
+    "static/js/main.c9fb17a8.js"
+  ]
+}
